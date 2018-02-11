@@ -1,4 +1,4 @@
-Rem the specific names for the Github name (XXX) and Overleaf name (YYY)
+Rem Set the specific names for the Github name (XXX) and Overleaf name (YYY)
 
 git clone https://git.overleaf.com/XXX
 git clone https://github.com/YYY.git
